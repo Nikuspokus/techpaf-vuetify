@@ -6,7 +6,9 @@
       elevate-on-scroll
       scroll-target="#scrolling-techniques-7"
     >
-      <v-app-bar-nav-icon>sdfsdfsdf</v-app-bar-nav-icon>
+      <v-app-bar-nav-icon>
+          <v-img></v-img>
+      </v-app-bar-nav-icon>
 
       <v-toolbar-title>Title</v-toolbar-title>
 <v-spacer></v-spacer>
@@ -21,6 +23,7 @@
       <v-container style="height: 60px;"> </v-container>
     </v-sheet>
   </v-card>
+  <p>https://dribbble.com/shots/14052894-Investor-home-page-investorHut</p>
 </template>
 
 <script>
